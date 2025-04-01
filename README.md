@@ -15,10 +15,8 @@ GoStash is a lightweight, in-memory cache package written in Go. It provides a s
 Install the package using go get:
 
 ```bash
-go get github.com/yourusername/gocache
+go get github.com/nordew/go-stash
 ```
-
-Note: Replace `github.com/yourusername/gocache` with the actual module path of the repository.
 
 ## Usage
 
@@ -34,7 +32,7 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/yourusername/gocache/cache"
+	cache "ithub.com/nordew/go-stash"
 )
 
 func main() {
