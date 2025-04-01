@@ -32,7 +32,7 @@ import (
 	"os/signal"
 	"time"
 
-	cache "ithub.com/nordew/go-stash"
+	cache "github.com/nordew/go-stash"
 )
 
 func main() {
