@@ -1,6 +1,6 @@
-# GoCache
+# GoStash
 
-GoCache is a lightweight, in-memory cache package written in Go. It provides a simple API for caching data with support for time-to-live (TTL) expirations, safe concurrent access, and an optional background worker that cleans up expired items automatically.
+GoStash is a lightweight, in-memory cache package written in Go. It provides a simple API for caching data with support for time-to-live (TTL) expirations, safe concurrent access, and an optional background worker that cleans up expired items automatically.
 
 ## Features
 
